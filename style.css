@@ -189,6 +189,7 @@ li a:hover {
 #ads {
   display: flex;
   margin-top: 86px;
+  column-gap: 115px;
 }
 /* .ads {
   width: 40%;
